@@ -21,11 +21,13 @@ To install these libraries, one may run a command in the IDE with the package na
 The main folder consists of test and train folders and each of these folder contain the subfolders of relevant classes.
 # Optimal Clusters 
 In order to find optimal numbers of visual words elbow method of K-means clustering is used. it is shown in the figure below.
+
+![EM_Objects](https://user-images.githubusercontent.com/127693395/224601538-deac02d0-1714-4fb4-8a69-e33fc3436876.png)
+
+
 # Optimal Parameters
 In order to find optimal parameters of clustering algorithms, Grid search is used. The optimal parameters are given as shown in figure.
 # Quantitative Results
-Objects Dataset:
-Flowers Dataset:
-# Qualitative Results
-Objects Dataset:
-Flowers Dataset:
+![qm](https://user-images.githubusercontent.com/127693395/224601745-20c2f81d-d28c-4ef7-a7ba-125401f67149.PNG)
+
+
